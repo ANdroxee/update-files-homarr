@@ -1,7 +1,5 @@
 #!/bin/bash
 
-echo "Example -> ./homarr_img.sh cedev@10.10.1.0 4fad5d4267aa /home/cedev/"
-
 mkdir -p img-homarr
 cp -r ./* img-homarr
 rm -rf ./img-homarr/img-homarr
