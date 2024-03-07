@@ -1,6 +1,6 @@
 # Docker Image Deployment Script
 
-This repository contains a Bash script (`homarr_img.sh`) that facilitates the deployment of images to a Docker container homarr via SSH. The script automates the process of copying files from a local directory to a remote server and then into a Docker container's directory.
+This repository contains a Bash script (`homarr_img.sh`) that facilitates the deployment of images to a Docker container via SSH (in this case for homarr). The script automates the process of copying files from a local directory to a remote server and then into a Docker container's directory.
 
 ## Prerequisites
 
